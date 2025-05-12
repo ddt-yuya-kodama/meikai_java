@@ -6,7 +6,6 @@
  * 作成日  :2025.05.12
  */
 
-//クラス名Javapractice1_3
 public class Javapractice2_1 {
 	
 	 /**
@@ -17,7 +16,6 @@ public class Javapractice2_1 {
      * 作成者           :小玉有哉
      * 作成日           :2025.05.12
      */
-	//mainメソッドの宣言
 	public static void main(String[] args) {
 		// 整数xの変数宣言
 		int x;
